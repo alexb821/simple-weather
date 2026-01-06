@@ -8,6 +8,13 @@ body {
   height: 100vh;
 }
 
+input {
+  font-size: 1rem;
+  padding: 0.4rem 0.6rem;
+  margin-bottom: 0.8rem;
+  width: 200px;
+}
+
 #weather {
   font-size: 1.4rem;
 }
