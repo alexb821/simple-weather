@@ -1,0 +1,13 @@
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background: #f7f7f7;
+  color: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#weather {
+  font-size: 1.4rem;
+}
